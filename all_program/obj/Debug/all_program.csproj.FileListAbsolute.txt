@@ -1,0 +1,13 @@
+c:\users\zym\documents\visual studio 2015\Projects\all_program\all_program\bin\Debug\all_program.exe.config
+c:\users\zym\documents\visual studio 2015\Projects\all_program\all_program\bin\Debug\all_program.exe
+c:\users\zym\documents\visual studio 2015\Projects\all_program\all_program\bin\Debug\all_program.pdb
+c:\users\zym\documents\visual studio 2015\Projects\all_program\all_program\bin\Debug\MathNet.Numerics.dll
+c:\users\zym\documents\visual studio 2015\Projects\all_program\all_program\obj\Debug\all_program.csprojResolveAssemblyReference.cache
+c:\users\zym\documents\visual studio 2015\Projects\all_program\all_program\obj\Debug\all_program.exe
+c:\users\zym\documents\visual studio 2015\Projects\all_program\all_program\obj\Debug\all_program.pdb
+D:\豆瓣工作备份\豆瓣工作备份\程序\all_program\all_program\bin\Debug\all_program.exe.config
+D:\豆瓣工作备份\豆瓣工作备份\程序\all_program\all_program\obj\Debug\all_program.exe
+D:\豆瓣工作备份\豆瓣工作备份\程序\all_program\all_program\obj\Debug\all_program.pdb
+D:\豆瓣工作备份\豆瓣工作备份\程序\all_program\all_program\bin\Debug\all_program.exe
+D:\豆瓣工作备份\豆瓣工作备份\程序\all_program\all_program\bin\Debug\all_program.pdb
+D:\豆瓣工作备份\豆瓣工作备份\程序\all_program\all_program\obj\Debug\all_program.csprojResolveAssemblyReference.cache
